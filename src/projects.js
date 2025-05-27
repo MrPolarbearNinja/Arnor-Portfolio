@@ -39,9 +39,9 @@ const projects = [
       "The game was developed by a team of three. It tells the story of a man living in the forest with his daughter. Each day, he ventures out in search of a rare flower that helps keep her illness at bay.\n\nBut the forest is shrouded in darkness and teeming with sinister creatures lurking in the shadows, ready to attack. Be cautious and ensure you retrieve the flower in time or it may be too late to save his daughter.",
     images: [
       "/images/Florist/Florist.jpg",
-      "/images/Florist/Flor1.png",
-      "/images/Florist/Flor2.png",
-      "/images/Florist/Flor3.png",
+      "/images/Florist/Flor1.PNG",
+      "/images/Florist/Flor2.PNG",
+      "/images/Florist/Flor3.PNG",
     ],
     video: "/videos/awesome-demo.mp4",
     link: "https://yourapp.com",
