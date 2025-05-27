@@ -31,7 +31,7 @@ function Home() {
       </div>
 
       <footer>
-        <p>&copy; {new Date().getFullYear()} Your Name</p>
+        <p>&copy; {new Date().getFullYear()}</p>
       </footer>
     </div>
   );
