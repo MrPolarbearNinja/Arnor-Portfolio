@@ -75,8 +75,8 @@ const projects = [
       "/images/Water/Water3.PNG",
       "/images/Water/Water4.PNG",
     ],
-    video: "/videos/awesome-demo.mp4",
-    link: "https://yourapp.com",
+    video: "https://youtu.be/42DANECgBYM",
+    link: "https://ylth.itch.io/arrested-waters",
     sections: [
       {
         title: "Overview",
@@ -92,6 +92,38 @@ const projects = [
         title: "What I handled",
         content:
           "Our team had plenty of talented programmers, which allowed us to include a lot in this game. I handled the player controls, combat, and enemy AI. I also managed the world design and all the sound in the game. \n\nAdditionally, I was in charge of creating all the art and effects; I intentionally kept them rough to allocate more time for programming.",
+      },
+    ],
+  },
+  {
+    id: "GenericAdventure",
+    title: "Generic Adventure",
+    shortDescription:
+      "This is a classic RPG game where the player takes the role of four characters on a mission to save the town, then the world.\nIt takes place in a desert village where the warrior meets up with her new teammates and goes on a journey where she meets a lot of new people and takes on whimsical quests.",
+    images: [
+      "/images/Generic/GenericThumb.PNG",
+      "/images/Generic/Generic1.PNG",
+      "/images/Generic/Generic2.PNG",
+      "/images/Generic/Generic3.PNG",
+      "/images/Generic/Generic4.PNG",
+    ],
+    video: "https://youtu.be/jkDi-YqIM8Y",
+    link: "https://yourapp.com",
+    sections: [
+      {
+        title: "Overview",
+        content:
+          "This is a classic RPG game where the player takes the role of four characters on a mission to save the town, then the world.\nIt takes place in a desert village where the warrior meets up with her new teammates and goes on a journey where she meets a lot of new people and takes on whimsical quests.",
+      },
+      {
+        title: "The Experience",
+        content:
+          "This is my project in Multimedia School of Reykjavík, where me and another student were inspired to make a game like Runescape.\nBut I was much more ambitious and really wanted to make a game that is more like Divinity.\n\nTherefore we made this game in style of an MMORPG. It was a huge project and I had great fun making it.\n\nAlthough it is very rough and short, I feel like the whole game is now a testament on what I can do.",
+      },
+      {
+        title: "What I handled",
+        content:
+          "This project was mostly made by me. I had to learn so many things to make it work, started with the combat and movement, then moved to make it an actual game, with story and quests.\n\nThe Characters and animations were taken from Mixamo, they were placeholder at first, but ended up as just the main cast.",
       },
     ],
   },
